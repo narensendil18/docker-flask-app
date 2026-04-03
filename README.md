@@ -7,3 +7,5 @@ This project demonstrates how to create a simple Python Flask application, conta
 - `app.py` - basic Flask application
 - `requirements.txt` - Python dependencies
 - `Dockerfile` - Docker build instructions
+
+CI/CD retry test
